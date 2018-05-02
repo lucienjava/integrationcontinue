@@ -15,6 +15,10 @@ import static org.junit.Assert.*;
 /**
  *
  * @author lucien
+ * @param 
+ * @see 
+ * @version 
+ * @deprecated 
  */
 public class CalculatriceJenkinsIT {
     
